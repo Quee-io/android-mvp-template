@@ -1,0 +1,5 @@
+include ':api'
+include ':domains'
+include ':architecture'
+include ':app'
+rootProject.name = "Android MVP Template"
